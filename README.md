@@ -1,6 +1,6 @@
 ## Hoverboard App
 
-Check out the app here: [https://hoverboard.jasim.io/]
+Check out the app here: [http://hoverboard.buildwithjasim.tech/]
 
 ### About
 This **Hoverboard App** provides a fun and educational way to explore how CSS hover effects and JavaScript can work together to create dynamic and responsive user interactions. The primary functionality allows users to hover over squares, triggering visual effects such as color changes, gradient transitions, and fading, making it perfect for those looking to understand hover effects or enhance their web design skills.
